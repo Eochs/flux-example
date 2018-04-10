@@ -1,0 +1,1 @@
+{"jobID":"db40b478-3047-10c0-0a16-df5e898d506a","spec":{"type":"policy","cause":{"Message":"dfsd","User":"spencer \u003cspencer@weave.works\u003e"},"spec":{"default:deployment/helloworld":{"add":null,"remove":{"locked":"true","locked_msg":"\"dfsd\"","locked_user":"spencer \u003cspencer@weave.works\u003e"}}}},"result":null}
