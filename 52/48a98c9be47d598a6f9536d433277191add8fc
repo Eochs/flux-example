@@ -1,0 +1,1 @@
+{"jobID":"01297fd9-1001-d949-2211-bdcaa321fadf","spec":{"type":"policy","cause":{"Message":"locked by spencer@weave.works","User":"spencer \u003cspencer@weave.works\u003e"},"spec":{"default:deployment/nginx":{"add":{"locked":"true","locked_msg":"\"locked by spencer@weave.works\"","locked_user":"spencer \u003cspencer@weave.works\u003e"},"remove":null}}},"result":null}
