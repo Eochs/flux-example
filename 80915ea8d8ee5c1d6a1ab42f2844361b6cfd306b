@@ -1,0 +1,1 @@
+{"jobID":"d32b3d18-b8ab-059d-8785-cb10badd8188","spec":{"type":"policy","cause":{"Message":"locked by spencer@weave.works","User":"spencer \u003cspencer@weave.works\u003e"},"spec":{"default:deployment/helloworld":{"add":{"locked":"true","locked_msg":"\"locked by spencer@weave.works\"","locked_user":"spencer \u003cspencer@weave.works\u003e"},"remove":null}}},"result":null}
