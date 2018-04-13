@@ -7,6 +7,7 @@ metadata:
     flux.weave.works/locked: "true"
     flux.weave.works/locked_msg: '"locked by spencer@weave.works"'
     flux.weave.works/locked_user: spencer <spencer@weave.works>
+    flux.weave.works/true: "true"
   name: nginx
 spec:
   replicas: 1
