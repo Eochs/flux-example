@@ -1,0 +1,1 @@
+{"jobID":"b186c4af-bb5c-9c15-9f3c-ab58c611e6e9","spec":{"type":"policy","cause":{"Message":"","User":"spencer \u003cspencer@weave.works\u003e"},"spec":{"default:deployment/nginx":{"add":{"true":"true"},"remove":null}}},"result":null}
