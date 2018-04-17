@@ -2,6 +2,9 @@ apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
   annotations:
+    flux.weave.works/locked: "true"
+    flux.weave.works/locked_msg: '"locked by spencer@weave.works"'
+    flux.weave.works/locked_user: spencer <spencer@weave.works>
     flux.weave.works/true: "true"
   name: helloworld
 spec:
