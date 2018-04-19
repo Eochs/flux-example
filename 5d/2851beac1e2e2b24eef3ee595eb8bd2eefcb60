@@ -1,0 +1,1 @@
+{"jobID":"6bd0cc01-dfb6-8eac-5b52-1f886ab7fd4b","spec":{"type":"policy","cause":{"Message":"test","User":"undefined"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true","automated_msg":"test"},"remove":null},"default:deployment/nginx":{"add":{"automated":"true","automated_msg":"test"},"remove":null}}},"result":null}
