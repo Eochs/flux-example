@@ -1,0 +1,1 @@
+{"jobID":"e35dacca-bf7d-0aa6-f3c1-3c0d338d2d08","spec":{"type":"policy","cause":{"Message":"test","User":"undefined"},"spec":{"default:deployment/helloworld":{"add":null,"remove":{"locked":"true","locked_msg":"test"}},"default:deployment/nginx":{"add":null,"remove":{"locked":"true","locked_msg":"test"}}}},"result":null}
