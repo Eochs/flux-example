@@ -3,6 +3,9 @@ apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
   annotations:
+    flux.weave.works/automated: "true"
+    flux.weave.works/automated_msg: test
+    flux.weave.works/automated_user: jordan@weave.works
     flux.weave.works/locked_user: jordan@weave.works
     flux.weave.works/true: "true"
   name: nginx
