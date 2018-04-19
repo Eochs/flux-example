@@ -1,0 +1,1 @@
+{"jobID":"9fa7c168-7560-6191-2559-7bcf46b674d4","spec":{"type":"policy","cause":{"Message":"test","User":"jordan@weave.works"},"spec":{"default:deployment/nginx":{"add":{"locked":"true","locked_msg":"test","locked_user":"jordan@weave.works"},"remove":null}}},"result":null}
